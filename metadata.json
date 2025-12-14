@@ -1,0 +1,8 @@
+{
+  "name": "Arogix Telemedicine",
+  "description": "A modern, trust-focused telemedicine platform featuring AI symptom checking, video consultations, and comprehensive dashboards for patients and doctors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
