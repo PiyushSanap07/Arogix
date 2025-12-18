@@ -165,7 +165,8 @@ const LandingPage: React.FC<LandingPageProps> = ({ headline, onLogin }) => (
             ✨ The Future of Telehealth
           </div>
           
-          <h1 className="h-20 md:h-24 text-5xl md:text-6xl lg:text-7xl font-extrabold text-teal-900 dark:text-teal-50 font-['Poppins'] tracking-tight">
+          <h1 className="min-h-[5.5rem] md:min-h-[7rem] lg:min-h-[8.5rem] text-5xl md:text-6xl lg:text-7xl font-extrabold text-teal-900 dark:text-teal-50 font-['Poppins'] tracking-tight leading-tight">
+
             {headline}
             <span className="ml-1 text-teal-500 animate-pulse">|</span>
           </h1>
